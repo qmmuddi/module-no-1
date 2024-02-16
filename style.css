@@ -1,0 +1,153 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+/* nav {
+    display: flex;
+    flex-wrap: wrap;
+}
+.center li{
+    display: flex;
+    color:blue;
+} */
+h1 {
+    display: inline;
+}
+
+ul {
+    padding: 34px;
+}
+
+li {
+    display: inline;
+}
+
+header {
+    background-color: whitesmoke;
+    color: black;
+}
+
+ul {
+    padding: 34px;
+}
+
+li {
+    /* display: inline-block; */
+    /* flex-wrap: wrap; */
+    list-style: none;
+    padding: 0px 43px;
+
+
+}
+
+.box1 {
+    margin: 110px;
+    padding: 0px 20px;
+}
+
+.button1 {
+    width: 100px;
+    background-color: rgb(195, 235, 137);
+    color: rgb(65, 151, 65);
+}
+
+.input1 {
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+.container2 {
+    display: flex;
+}
+
+.color-change {
+    color: orange;
+}
+
+.explore-button {
+    /* width: 100px; */
+    border-radius: 4px;
+    background-color: rgb(155, 221, 155);
+    color: white;
+}
+
+.container3 {
+    display: flex;
+    padding: 34px;
+}
+
+.box6 {
+    height: 300px;
+    width: 300px;
+    /* border: 1px solid black; */
+    margin: 0px 70px;
+    padding: 34px;
+}
+
+/* .lists{
+    flex-direction: column;
+} */
+
+
+.box7 {
+    height: 200px;
+    width: 200px;
+    /* border: 1px solid black; */
+    margin: 20px;
+}
+
+.lists li {}
+
+.dollar {
+    color: green;
+}
+
+.container4 {
+    display: flex;
+    margin: 0px 400px;
+    gap: 20px;
+    padding: 43px;
+}
+
+.c-6 {
+    color: orange;
+}
+
+.c-7 h2 {
+    color: black;
+    font-size: 15px;
+}
+
+.container5 {
+    display: flex;
+    padding: 0px 250px;
+}
+
+.con-8{
+    /* padding: 0px 34px; */
+    background-color: green;
+    color: white;
+    margin: 0px 250px ;
+}
+.h-1 h1{
+    color: black;
+}
+.h-8 h6{
+    color: orange;
+}
+
+.container6{
+   display:flex;
+   padding: 40px;
+   margin: 0px 190px;
+   gap: 20px;
+}
+.box9{
+    height: 200px;
+    width: 300px;
+    border: 1px solid black;
+    padding: 0px 80px;
+    
+}
